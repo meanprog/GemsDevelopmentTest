@@ -37,7 +37,7 @@ namespace Solver.Tests
         }
 
         [Theory]
-        [InlineData(2, 5, -3.5, -0.5, -3.5)]
+        [InlineData(2, 5, -3.5, 0.5700274723201295, -3.0700274723201293)]
         [InlineData(1, 4, 1, -0.2679, -3.7321)]
         public void SolveQuadratic_ValidInputs_ReturnsExpectedRoots(double a, double b, double c, double expectedX1, double expectedX2)
         {
