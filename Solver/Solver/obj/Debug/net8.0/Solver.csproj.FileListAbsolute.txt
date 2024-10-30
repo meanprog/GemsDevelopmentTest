@@ -1,0 +1,14 @@
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\bin\Debug\net8.0\Solver.exe
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\bin\Debug\net8.0\Solver.deps.json
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\bin\Debug\net8.0\Solver.runtimeconfig.json
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\bin\Debug\net8.0\Solver.dll
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\bin\Debug\net8.0\Solver.pdb
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\Solver.AssemblyInfoInputs.cache
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\Solver.AssemblyInfo.cs
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\Solver.csproj.CoreCompileInputs.cache
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\Solver.dll
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\refint\Solver.dll
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\Solver.pdb
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\Solver.genruntimeconfig.cache
+C:\Users\niki3\PycharmProjects\GemsDevelopmentTest\Solver\Solver\obj\Debug\net8.0\ref\Solver.dll
